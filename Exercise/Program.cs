@@ -2,7 +2,7 @@
 
 
 public class Program { 
-    static void Main(string[] args) { 
+   /* static void Main(string[] args) { 
         PhoneBook pb= new PhoneBook();
 
         pb.InsertPhone("Hana", "0123456789");
@@ -17,5 +17,5 @@ public class Program {
 
         pb.Sort();
 
-    }
+    }*/
 }
