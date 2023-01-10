@@ -8,11 +8,11 @@ namespace Exercise.PracticalEx.Exercise_2
 {
     public class Program
     {
-       /* static void Main(string[] args)
+      /* static void Main(string[] args)
         {
-            Animal a = new Lion(250, "Simba");
+            Animal a = new Lion(250, "Lion");
             a.Show();
-            a = new Tiger(200, "Shere Khan");
+            a = new Tiger(200, "Tiger");
             a.Show();
         }*/
     }
