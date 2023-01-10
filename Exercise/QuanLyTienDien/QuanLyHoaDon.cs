@@ -10,7 +10,7 @@ namespace Exercise.QuanLyTienDien
     {
         public QuanLyHoaDon() { }
 
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             KhachHangVN KHVN = new KhachHangVN(12, "nguyen", "02/02/2022", 200, "Sinh Hoat");
             Console.WriteLine(KHVN.TinhTien());
